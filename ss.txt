@@ -7,11 +7,11 @@ read user_id
 echo 'Please Enter your tag_no'
 read tag_id
 
-if [[ $user_id == “tecmint” && $tag_id -eq 3990 ]]
+if [[ $user_id == "tecmint" && $tag_id -eq 3990 ]]
 then
-  echo “Login successful”
+  echo "Login successful"
 else
-  echo “Login failure”
+  echo "Login failure"
 fi
 
 
