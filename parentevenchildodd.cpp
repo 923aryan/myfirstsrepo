@@ -1,4 +1,4 @@
-1. Write a program to find sum of even numbers in parent process and sum of odd numbers in child process.
+
 // C++ program to demonstrate calculation in parent and
 // child processes using fork()
 #include <iostream>
